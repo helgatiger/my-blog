@@ -25,7 +25,7 @@ SECRET_KEY = '#i!ly*e!d+u4h6y6tyeh08&8)=)1+-!+m+&jlh6b1usg-m)-_('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['helgatiger.pythonanywhere.com']
 
 
 # Application definition
